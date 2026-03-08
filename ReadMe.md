@@ -37,7 +37,7 @@
 
 ## ESD文件夹
 
-用于存放ESD数据集，如需重新训练模型，请自行下载，[下载地址](https://github.com/HLTSingapore/Emotional-Speech-Data)。
+用于存放ESD数据集，如需重新训练模型，请自行下载，[ESD数据集](https://github.com/HLTSingapore/Emotional-Speech-Data)。
 
 训练前请将ESD数据集中的1-20二十个文件夹放入ESD文件夹中
 
